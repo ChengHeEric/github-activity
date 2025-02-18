@@ -7,6 +7,7 @@ import time
 
 # %%
 
+
 timestamp = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
 
 #step 1, check if there is a json file, if not create one
